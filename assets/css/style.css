@@ -1593,4 +1593,10 @@ font-size: 26px;
 .school-homepage-header-container {
   min-height: 82vh;
 }
+.brit-box {
+  padding-top: 0px;
+}
+.bri-box {
+  padding-bottom: 50px;
+}
 }
