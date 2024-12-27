@@ -1546,7 +1546,7 @@ font-size: 26px;
   padding-left: 50px;
 }
 .imp {
-  padding-top: 30px;
+  padding-top: 0px;
 }
 .bri-boxs {
   margin-top: 0px;
@@ -1598,5 +1598,11 @@ font-size: 26px;
 }
 .bri-box {
   padding-bottom: 50px;
+}
+.excele{
+  padding-top: 0px;
+}
+.bcx{
+  padding-bottom: 0px;
 }
 }
